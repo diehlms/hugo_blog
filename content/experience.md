@@ -73,5 +73,4 @@ slug = "experience"
         <a class="btn disabled">Low-flow Groundwater Sampling</a> | 
         <a class="btn disabled">Soil Sampling</a> | 
         <a class="btn disabled">Team Management</a>
-        
 </div>
